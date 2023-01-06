@@ -21,7 +21,7 @@
     "firebase": "^7.14.4",
     "js-cookie": "^2.2.1",
     "mapbox-gl": "^1.10.1",
-    "nuxt": "^2.12.2",
+    "nuxt": "^2.15.8",
     "pusher-js": "^6.0.3",
     "vuelidate": "^0.7.5"
   },
